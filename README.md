@@ -1,7 +1,7 @@
 # Project-weather-report-analysis-using-Pandas
 
 
-WEATHER 
+WEATHER REPORT ANALYSIS
 1.	Q. 1) Find all the unique 'Wind Speed' values in the data.
 2.	Q. 2) Find the number of times when the 'Weather is exactly Clear.'
 3.	Q. 3) Find the number of times when the 'Wind Speed was exactly 4 km/h'.
